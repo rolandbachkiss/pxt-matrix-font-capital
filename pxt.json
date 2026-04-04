@@ -1,0 +1,17 @@
+{
+    "name": "matrix-font-capital",
+    "version": "0.1.0",
+    "description": "Capital letters A-Z plus punctuation (5x7 bitmap font) for pxt-matrix-text",
+    "license": "MIT",
+    "authors": ["Roland Bach Kiss <rolandbachkiss@gmail.com>"],
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "matrix-core": "github:rolandbachkiss/pxt-matrix-core",
+        "matrix-text": "github:rolandbachkiss/pxt-matrix-text"
+    },
+    "files": ["README.md", "font-capital.ts"],
+    "testFiles": ["test.ts"],
+    "supportedTargets": ["microbit"],
+    "preferredEditor": "tsprj"
+}
