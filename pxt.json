@@ -1,6 +1,6 @@
 {
     "name": "matrix-font-capital",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "description": "Capital letters A-Z plus punctuation (5x7 bitmap font) for pxt-matrix-text",
     "license": "MIT",
     "dependencies": {
